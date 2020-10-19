@@ -1,7 +1,7 @@
 
 public class FirstProgram {
 	public static void main(String[] args) {
-		int numToCheck = 29;
+		int numToCheck = 21;
 		boolean res = checkIsPrime(numToCheck);
 		if (res) {
 			System.out.println(numToCheck + " is a prime");
